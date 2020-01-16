@@ -1,0 +1,17 @@
+[{
+        "name": "zblit",
+        "description": "next-generation receipt splitting platform",
+        "images": ["images/zblit-1.png", "images/zblit-2.png"]
+    },
+    {
+        "name": "gohabit",
+        "description": "boost your employees's health condition",
+        "images": ["images/gohabit-1.png", "images/gohabit-2.png"]
+    },
+    {
+        "name": "yu-gi-oh!",
+        "description": "clone of the famous card game",
+        "images": ["images/yu-1.png", "images/yu-2.png"]
+    }
+
+]
