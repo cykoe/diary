@@ -12,6 +12,10 @@
         "name": "yu-gi-oh!",
         "description": "clone of the famous card game",
         "images": ["images/yu-1.png", "images/yu-2.png"]
+    },
+    {
+        "name": "erhabo",
+        "description": "restaurant review system for saudi-arabia",
+        "images": ["images/yu-1.png", "images/gohabit-2.png"]
     }
-
 ]
