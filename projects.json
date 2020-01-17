@@ -20,7 +20,7 @@
         "name": "yu-gi-oh!",
         "description": "clone of the famous card game",
         "images": ["images/yu-1.png", "images/yu-2.png"],
-        "technology": ["react", "mongodb", "alibaba"]
+        "technology": ["react", "mongoDb", "alibaba"]
     },
     {
         "name": "erhabo",
