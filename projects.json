@@ -1,21 +1,31 @@
 [{
         "name": "zblit",
         "description": "next-generation receipt splitting platform",
-        "images": ["images/zblit-1.png", "images/zblit-2.png"]
+        "images": ["images/zblit-1.png", "images/zblit-2.png"],
+        "technology": ["angular", "tensorflow", "aws", "mongoDb", "serverless"]
+    },
+    {
+        "name": "fusen",
+        "description": "international freelancers platform",
+        "images": ["images/zblit-1.png", "images/gohabit-1.png"],
+        "technology": ["angular", "aws", "mysql", "mongoDb"]
     },
     {
         "name": "gohabit",
         "description": "boost your employees's health condition",
-        "images": ["images/gohabit-1.png", "images/gohabit-2.png"]
+        "images": ["images/gohabit-1.png", "images/gohabit-2.png"],
+        "technology": ["gcp", "react", "serverless", "mongoDb"]
     },
     {
         "name": "yu-gi-oh!",
         "description": "clone of the famous card game",
-        "images": ["images/yu-1.png", "images/yu-2.png"]
+        "images": ["images/yu-1.png", "images/yu-2.png"],
+        "technology": ["react", "mongodb", "alibaba"]
     },
     {
         "name": "erhabo",
         "description": "restaurant review system for saudi-arabia",
-        "images": ["images/yu-1.png", "images/gohabit-2.png"]
+        "images": ["images/yu-1.png", "images/gohabit-2.png"],
+        "technology": ["flutter", "serverless", "aws"]
     }
 ]
