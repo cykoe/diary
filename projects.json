@@ -22,7 +22,7 @@
         "images": ["images/gohabit-1.png", "images/gohabit-2.png"],
         "technology": ["gcp", "react", "serverless", "mongoDb"],
         "about": "ever worry about your employee's health? Gohabit will help to monitor and boost their activities",
-        "platform": ["smart home", "web", "mobile"],
+        "platform": ["smart-home", "web", "mobile"],
         "category": ["productivity"]
     },
     {
