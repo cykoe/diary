@@ -12,7 +12,7 @@
     {
         "name": "fusen",
         "description": "international freelancers platform",
-        "images": ["images/zblit-1.png", "images/gohabit-1.png"],
+        "images": ["images/fusen-1.png", "images/fusen-2.png"],
         "technology": ["angular", "aws", "mysql", "mongoDb"],
         "about": "find the best and cheapest freelancers from all over the world",
         "platform": ["web"],
@@ -45,7 +45,7 @@
     {
         "name": "erhabo",
         "description": "restaurant review system for saudi-arabia",
-        "images": ["images/yu-1.png", "images/gohabit-2.png"],
+        "images": ["images/erhabo-1.png", "images/erhabo-2.png"],
         "technology": ["flutter", "serverless", "aws"],
         "about": "review",
         "platform": ["mobile"],
