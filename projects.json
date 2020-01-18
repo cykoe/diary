@@ -40,7 +40,7 @@
         "platform": ["web"],
         "category": ["game"],
         "productUrl": "https://tcg.dotlab.cc/",
-        "codeUrl": "https://github.com/sircharlie"
+        "codeUrl": "https://github.com/DotLab/touhou-card-game-nodejs"
     },
     {
         "name": "erhabo",
@@ -52,5 +52,16 @@
         "category": ["social", "productivity"],
         "productUrl": "https://github.com/sircharlie",
         "codeUrl": "https://github.com/sircharlie"
+    },
+    {
+        "name": "art theater",
+        "description": "new homepage for art theatre",
+        "images": ["images/art-1.png", "images/art-2.png"],
+        "technology": ["angular"],
+        "about": "brand new design for the art theater",
+        "platform": ["web"],
+        "category": ["social", "art"],
+        "productUrl": "https://thearttheater.today/",
+        "codeUrl": "https://github.com/sircharlie/Today-at-the-Art"
     }
 ]
