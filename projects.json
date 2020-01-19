@@ -1,8 +1,8 @@
 [{
         "name": "zblit",
-        "description": "next-generation receipt splitting platform",
+        "description": "next-generation bill splitting platform",
         "images": ["images/zblit-1.png", "images/zblit-2.png"],
-        "technology": ["angular", "tensorflow", "aws", "mongoDb", "serverless"],
+        "technology": ["angular", "aws", "tensorflow", "serverless"],
         "about": "a platform to view and share your bills with your friends",
         "platform": ["web"],
         "category": ["productivity"],
@@ -11,13 +11,24 @@
     },
     {
         "name": "fusen",
-        "description": "international freelancers platform",
+        "description": "international freelancers finding platform",
         "images": ["images/fusen-1.png", "images/fusen-2.png"],
         "technology": ["angular", "aws", "mysql", "mongoDb"],
         "about": "find the best and cheapest freelancers from all over the world",
         "platform": ["web"],
         "category": ["productivity"],
         "productUrl": "http://fusen.io/",
+        "codeUrl": "https://github.com/sircharlie"
+    },
+    {
+        "name": "erhabo",
+        "description": "ai powered restaurant review system (underdevelopment)",
+        "images": ["images/erhabo-1.png", "images/erhabo-2.png"],
+        "technology": ["flutter", "aws", "serverless"],
+        "about": "review",
+        "platform": ["mobile"],
+        "category": ["social", "productivity"],
+        "productUrl": "https://github.com/sircharlie",
         "codeUrl": "https://github.com/sircharlie"
     },
     {
@@ -43,21 +54,10 @@
         "codeUrl": "https://github.com/DotLab/touhou-card-game-nodejs"
     },
     {
-        "name": "erhabo",
-        "description": "restaurant review system for saudi-arabia",
-        "images": ["images/erhabo-1.png", "images/erhabo-2.png"],
-        "technology": ["flutter", "serverless", "aws"],
-        "about": "review",
-        "platform": ["mobile"],
-        "category": ["social", "productivity"],
-        "productUrl": "https://github.com/sircharlie",
-        "codeUrl": "https://github.com/sircharlie"
-    },
-    {
-        "name": "art theater",
-        "description": "new homepage for art theatre",
+        "name": "art-theater",
+        "description": "homepage for the art theater",
         "images": ["images/art-1.png", "images/art-2.png"],
-        "technology": ["angular"],
+        "technology": ["angular", "aws"],
         "about": "brand new design for the art theater",
         "platform": ["web"],
         "category": ["social", "art"],
