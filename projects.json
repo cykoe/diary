@@ -10,6 +10,17 @@
         "codeUrl": "https://github.com/sircharlie"
     },
     {
+        "name": "pathfinding-visualization",
+        "description": "visualize pathfinding for various algorithms",
+        "images": ["images/pv-1.gif", "images/pv-2.gif"],
+        "technology": ["react"],
+        "about": "Visualization for bfs and dfs, more are under developed. (dijkstra)",
+        "platform": ["web", "mobile"],
+        "category": ["education"],
+        "productUrl": "https://sircharlie.github.io/pathfinding-visualizer",
+        "codeUrl": "https://github.com/sircharlie"
+    },
+    {
         "name": "fusen",
         "description": "international freelancers finding platform",
         "images": ["images/fusen-1.png", "images/fusen-2.png"],
@@ -28,17 +39,6 @@
         "about": "review",
         "platform": ["mobile"],
         "category": ["social", "productivity"],
-        "productUrl": "https://github.com/sircharlie",
-        "codeUrl": "https://github.com/sircharlie"
-    },
-    {
-        "name": "gohabit",
-        "description": "boost your employees's health condition",
-        "images": ["images/gohabit-1.png", "images/gohabit-2.png"],
-        "technology": ["gcp", "react", "serverless", "mongoDb"],
-        "about": "ever worry about your employee's health? Gohabit will help to monitor and boost their activities",
-        "platform": ["smart-home", "web", "mobile"],
-        "category": ["productivity"],
         "productUrl": "https://github.com/sircharlie",
         "codeUrl": "https://github.com/sircharlie"
     },
