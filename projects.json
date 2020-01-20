@@ -1,7 +1,7 @@
 [{
         "name": "zblit",
         "description": "next-generation bill splitting platform",
-        "images": ["images/zblit-1.png", "images/zblit-2.png"],
+        "images": ["images/zblit-1.gif", "images/zblit-2.gif"],
         "technology": ["angular", "aws", "tensorflow", "serverless"],
         "about": "a platform to view and share your bills with your friends",
         "platform": ["web"],
