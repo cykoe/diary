@@ -1,7 +1,7 @@
 [{
         "name": "zblit",
         "description": "next-generation bill splitting platform",
-        "images": ["images/zblit-1.gif", "images/zblit-2.gif"],
+        "images": ["images/zblit-1.gif", "images/zblit-2.gif", "images/zblit-3.png", "images/zblit-4.png"],
         "technology": ["angular", "aws", "tensorflow", "serverless"],
         "about": "a platform to view and share your bills with your friends",
         "platform": ["web"],
@@ -12,7 +12,7 @@
     {
         "name": "pathfinding-visualization",
         "description": "visualize pathfinding for various algorithms",
-        "images": ["images/pv-1.gif", "images/pv-2.gif"],
+        "images": ["images/pv-1.gif", "images/pv-2.gif", "images/pv-3.png", "images/pv-4.png"],
         "technology": ["react"],
         "about": "Visualization for bfs and dfs, more are under developed. (dijkstra)",
         "platform": ["web", "mobile"],
@@ -32,6 +32,17 @@
         "codeUrl": "https://github.com/sircharlie"
     },
     {
+        "name": "yu-gi-oh!",
+        "description": "multi-player Japanese strategy card game",
+        "images": ["images/ygo-1.gif", "images/ygo-2.gif", "images/ygo-3.png", "images/ygo-4.png"],
+        "technology": ["react", "mongoDb", "alibaba"],
+        "about": "play Yu-Gi-Oh! online",
+        "platform": ["web"],
+        "category": ["game"],
+        "productUrl": "https://tcg.dotlab.cc/",
+        "codeUrl": "https://github.com/DotLab/touhou-card-game-nodejs"
+    },
+    {
         "name": "erhabo",
         "description": "ai powered restaurant review system (underdevelopment)",
         "images": ["images/erhabo-1.png", "images/erhabo-2.png"],
@@ -41,27 +52,5 @@
         "category": ["social", "productivity"],
         "productUrl": "https://github.com/sircharlie",
         "codeUrl": "https://github.com/sircharlie"
-    },
-    {
-        "name": "yu-gi-oh!",
-        "description": "clone of the famous card game",
-        "images": ["images/yu-1.png", "images/yu-2.png"],
-        "technology": ["react", "mongoDb", "alibaba"],
-        "about": "play Yu-Gi-Oh! online",
-        "platform": ["web"],
-        "category": ["game"],
-        "productUrl": "https://tcg.dotlab.cc/",
-        "codeUrl": "https://github.com/DotLab/touhou-card-game-nodejs"
-    },
-    {
-        "name": "art-theater",
-        "description": "homepage for the art theater",
-        "images": ["images/art-1.png", "images/art-2.png"],
-        "technology": ["angular", "aws"],
-        "about": "brand new design for the art theater",
-        "platform": ["web"],
-        "category": ["social", "art"],
-        "productUrl": "https://thearttheater.today/",
-        "codeUrl": "https://github.com/sircharlie/Today-at-the-Art"
     }
 ]
