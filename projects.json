@@ -1,56 +1,121 @@
-[{
-        "name": "zblit",
-        "description": "next-generation bill splitting platform",
-        "images": ["images/zblit-1.gif", "images/zblit-2.gif", "images/zblit-3.png", "images/zblit-4.png"],
-        "technology": ["angular", "aws", "tensorflow", "serverless"],
-        "about": "a platform to view and share your bills with your friends",
-        "platform": ["web"],
-        "category": ["productivity"],
-        "productUrl": "https://zblit.com/",
-        "codeUrl": "https://github.com/sircharlie"
-    },
-    {
-        "name": "pathfinding-visualization",
-        "description": "visualize pathfinding for various algorithms",
-        "images": ["images/pv-1.gif", "images/pv-2.gif", "images/pv-3.png", "images/pv-4.png"],
-        "technology": ["react"],
-        "about": "Visualization for bfs and dfs, more are under developed. (dijkstra)",
-        "platform": ["web", "mobile"],
-        "category": ["education"],
-        "productUrl": "https://sircharlie.github.io/pathfinding-visualizer",
-        "codeUrl": "https://github.com/sircharlie"
-    },
-    {
-        "name": "fusen",
-        "description": "international freelancers finding platform",
-        "images": ["images/fusen-1.png", "images/fusen-2.png"],
-        "technology": ["angular", "aws", "mysql", "mongoDb"],
-        "about": "find the best and cheapest freelancers from all over the world",
-        "platform": ["web"],
-        "category": ["productivity"],
-        "productUrl": "http://fusen.io/",
-        "codeUrl": "https://github.com/sircharlie"
-    },
-    {
-        "name": "yu-gi-oh!",
-        "description": "multi-player Japanese strategy card game",
-        "images": ["images/ygo-1.gif", "images/ygo-2.gif", "images/ygo-3.png", "images/ygo-4.png"],
-        "technology": ["react", "mongoDb", "alibaba"],
-        "about": "play Yu-Gi-Oh! online",
-        "platform": ["web"],
-        "category": ["game"],
-        "productUrl": "https://tcg.dotlab.cc/",
-        "codeUrl": "https://github.com/DotLab/touhou-card-game-nodejs"
-    },
-    {
-        "name": "erhabo",
-        "description": "ai powered restaurant review system (underdevelopment)",
-        "images": ["images/erhabo-1.png", "images/erhabo-2.png"],
-        "technology": ["flutter", "aws", "serverless"],
-        "about": "review",
-        "platform": ["mobile"],
-        "category": ["social", "productivity"],
-        "productUrl": "https://github.com/sircharlie",
-        "codeUrl": "https://github.com/sircharlie"
-    }
+[
+  {
+    "name": "zblit",
+    "description": "Bill splitting social platform",
+    "images": [
+      "images/zblit-1.gif",
+      "images/zblit-2.gif",
+      "images/zblit-3.png",
+      "images/zblit-4.png",
+      "images/zblit-5.png",
+      "images/zblit-6.png"
+    ],
+    "technology": [
+      "angular",
+      "serverless",
+      "aws",
+      "tensorflow"
+    ],
+    "about": "If you have about problems splitting that grocery bill with your roommates, zblit is the solution.",
+    "platform": [
+      "web",
+      "mobile"
+    ],
+    "category": [
+      "productivity"
+    ],
+    "productUrl": "https://zblit.com/",
+    "codeUrl": "https://github.com/sircharlie"
+  },
+  {
+    "name": "pathfinding",
+    "description": "visualize various pathfinding algorithms",
+    "images": [
+      "images/pv-1.gif",
+      "images/pv-2.gif",
+      "images/pv-3.png",
+      "images/pv-4.png"
+    ],
+    "technology": [
+      "react"
+    ],
+    "about": "Visualization for pathfinding algorithms, including bfs and dfs.",
+    "platform": [
+      "web",
+      "mobile"
+    ],
+    "category": [
+      "education"
+    ],
+    "productUrl": "https://sircharlie.github.io/pathfinding-visualizer",
+    "codeUrl": "https://github.com/sircharlie"
+  },
+  {
+    "name": "fusen",
+    "description": "international freelancers seeking platform",
+    "images": [
+      "images/fusen-1.png",
+      "images/fusen-2.png"
+    ],
+    "technology": [
+      "angular",
+      "serverless",
+      "aws"
+    ],
+    "about": "we aim to help employers in the US to find the best and the cheapest freelancers from all over the world.",
+    "platform": [
+      "web"
+    ],
+    "category": [
+      "productivity"
+    ],
+    "productUrl": "https://fusen.io/",
+    "codeUrl": "https://github.com/sircharlie"
+  },
+  {
+    "name": "yu-gi-oh!",
+    "description": "multi-player Japanese strategy card game",
+    "images": [
+      "images/ygo-1.gif",
+      "images/ygo-2.gif",
+      "images/ygo-3.png",
+      "images/ygo-4.png"
+    ],
+    "technology": [
+      "react",
+      "serverless",
+      "alibaba"
+    ],
+    "about": "play Yu-Gi-Oh! online with other players",
+    "platform": [
+      "web"
+    ],
+    "category": [
+      "game"
+    ],
+    "productUrl": "https://tcg.dotlab.cc/",
+    "codeUrl": "https://github.com/DotLab/touhou-card-game-nodejs"
+  },
+  {
+    "name": "erhabo",
+    "description": "AI-driven restaurant review and recommendation platform",
+    "images": [
+      "images/erhabo-1.png"
+    ],
+    "technology": [
+      "flutter",
+      "serverless",
+      "aws"
+    ],
+    "about": "review",
+    "platform": [
+      "mobile"
+    ],
+    "category": [
+      "social",
+      "productivity"
+    ],
+    "productUrl": "https://github.com/sircharlie",
+    "codeUrl": "https://github.com/sircharlie"
+  }
 ]

@@ -1,1 +1,1 @@
-this is a AI-driven restaurant recommendation platform for the millennials.
+This will become a AI-driven restaurant recommendation and review platform. Currently, it is under development.
