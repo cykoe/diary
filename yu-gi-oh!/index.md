@@ -1,1 +1,1 @@
-this is nothing but allows you to play Yu-Gi-Oh! with your friend if you are bored.
+this is nothing but allows you to play Yu-Gi-Oh! with your friend if you are bored, like stuck in a cage where the internet only allows you to play Yu-Gi-Oh! :sweat_smile: :point_down: :point_down: :point_down: :point_down: :point_down:
