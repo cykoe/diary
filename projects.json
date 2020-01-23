@@ -94,27 +94,5 @@
         ],
         "productUrl": "https://tcg.dotlab.cc/",
         "codeUrl": "https://github.com/DotLab/touhou-card-game-nodejs"
-    },
-    {
-        "name": "erhabo",
-        "description": "AI-driven restaurant review and recommendation platform",
-        "images": [
-            "images/erhabo-1.png"
-        ],
-        "technology": [
-            "flutter",
-            "serverless",
-            "aws"
-        ],
-        "about": "review",
-        "platform": [
-            "mobile"
-        ],
-        "category": [
-            "social",
-            "productivity"
-        ],
-        "productUrl": "https://github.com/sircharlie",
-        "codeUrl": "https://github.com/sircharlie"
     }
 ]
